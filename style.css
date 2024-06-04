@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #FFF3C7;
+    border: 20px solid #F7418F;
+}
+
+.top-section{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15rem;
+    flex-wrap: wrap;
+}
+
+img{
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 300px;
+}
+
+#year{
+    text-align: right;
+}
+.bio{
+    font-size: 25px;
+}
+
+.intro{
+    margin-top: 5rem;   
+}
+
+.intro h2{
+    margin-top: 5rem;
+    font-size: 60px;
+    margin-left: 20rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about-section{
+    margin: 3rem 20rem 3rem 20rem;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+}
+
+ul{
+    margin: 2rem 20rem 3rem 22rem;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+}
+
+.bottom-section h3{
+    margin: 3rem 0 0 20rem;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    text-align: right;
+    padding: 30px;
+    font-size: 20px;
+}
+
+#copyright{
+    margin-top: 5rem;
+    text-align: center;
+}
